@@ -1,5 +1,7 @@
+@import '/vars.scss';
+@import '/header.scss';
 body {
-    background-color: black;
+    background-color: $primary;
     font-size: 21px;
     color: white;
 }

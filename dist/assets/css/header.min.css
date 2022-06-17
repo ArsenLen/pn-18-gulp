@@ -1,0 +1,13 @@
+@import '/vars.css';
+header {
+  background-color: rgba(35, 33, 33, 0.805);
+  height: 70px;
+  display: flex;
+  justify-content: space-between;
+}
+header img {
+  width: 70px;
+}
+header a {
+  color: white;
+}

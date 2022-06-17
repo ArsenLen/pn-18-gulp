@@ -1,0 +1,13 @@
+@import '/vars.css';
+header {
+    background-color: $secondary;
+    height: 70px;
+    display: flex;
+    justify-content: space-between;
+    img {
+        width: 70px;
+    }
+    a {
+        color: white;
+    }
+}
